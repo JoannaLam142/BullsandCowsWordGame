@@ -1,0 +1,24 @@
+{
+	"files.exclude": {
+		"C:/Users/j_lam/OneDrive/Documents/Bull Cow/bullcowgame-starter-kit/BullCowGame-starter-kit/.vscode": true,
+		"C:/Users/j_lam/OneDrive/Documents/Bull Cow/bullcowgame-starter-kit/BullCowGame-starter-kit/Content": true,
+		"C:/Users/j_lam/OneDrive/Documents/Bull Cow/bullcowgame-starter-kit/BullCowGame-starter-kit/Intermediate": true,
+		"C:/Users/j_lam/OneDrive/Documents/Bull Cow/bullcowgame-starter-kit/BullCowGame-starter-kit/Saved": true
+	},
+	"files.associations": {
+		"algorithm": "cpp",
+		"bitset": "cpp",
+		"chrono": "cpp",
+		"hash_map": "cpp",
+		"hash_set": "cpp",
+		"map": "cpp",
+		"set": "cpp",
+		"xhash": "cpp",
+		"xtree": "cpp",
+		"iterator": "cpp",
+		"xutility": "cpp",
+		"__bit_reference": "cpp",
+		"unordered_map": "cpp",
+		"unordered_set": "cpp"
+	}
+}
